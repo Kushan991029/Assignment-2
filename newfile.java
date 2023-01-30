@@ -6,5 +6,9 @@ class newfile
 		int b = 20;
 		
 		System.out.println("Sum : "+(a+b));
+		
+		int c = 5;
+		
+		System.out.println(c);  //made a changes
 	}
 }
